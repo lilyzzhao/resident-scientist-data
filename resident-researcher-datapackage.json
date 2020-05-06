@@ -1,0 +1,155 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "resident_researcher_data",
+      "path": "https://raw.githubusercontent.com/lilyzzhao/science-to-benefit-moorea/master/resident_researcher_data.csv"
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "document_name",
+            "type": "string",
+            "format": "default",
+            "title": "ID",
+            "description": "ID number of respondent"
+          },
+          {
+            "name": "role",
+            "type": "string",
+            "format": "default",
+            "title": "role",
+            "description": "whether respondent is a scientist or resident (with residents who work at associations denoted as association)"
+          },
+          {
+            "name": "group",
+            "type": "string",
+            "format": "default",
+            "description": "whether respondent is a scientist or resident",
+            "title": "group"
+          },
+          {
+            "name": "age_bracket",
+            "type": "string",
+            "format": "default",
+            "title": "age bracket",
+            "description": "age bracket respondent belongs to"
+          },
+          {
+            "name": "age_range",
+            "type": "string",
+            "format": "default",
+            "title": "age range",
+            "description": "age range respondent belong to"
+          },
+          {
+            "name": "gender",
+            "type": "string",
+            "format": "default",
+            "title": "gender",
+            "description": "as self-identified"
+          },
+          {
+            "name": "location",
+            "type": "string",
+            "format": "default",
+            "title": "location of residence while in Moorea",
+            "description": "including the two research stations Gump and Criobe"
+          },
+          {
+            "name": "ethnicity_cat_var",
+            "type": "string",
+            "format": "default",
+            "title": "ethinicity"
+          },
+          
+          {
+            "name": "opinion_of_marine_management",
+            "type": "string",
+            "format": "default",
+            "title": "opinion on local marine protected area management"
+          },
+          {
+            "name": "very_happy_satisfied_with_job",
+            "type": "string",
+            "format": "default",
+            "title": "is the respondent very happy or very satisfied with their job"
+          },
+          {
+            "name": "family_and_friends_important_component_life",
+            "type": "string",
+            "format": "default",
+            "title": "did they list family and friends as one of the most important components of life"
+          },
+          {
+            "name": "environment_important_component_life",
+            "type": "string",
+            "format": "default",
+            "title": "did they list the environment as one of the most important components of life"
+          },
+          {
+            "name": "helping_others_compassion_community_important_component_life",
+            "type": "string",
+            "format": "default",
+            "title": "did they list helping others of compassion as one of the most important components of life"
+          },
+          {
+            "name": "not_enough_interaction",
+            "type": "string",
+            "format": "default",
+            "title": "did they unprompted say that there is not enough interaction between researchers and residents",
+            "description": "when answering the question how would you describe the relationship between Moorea's residents and research stations"
+          },
+          {
+            "name": "opinion_on_resident_researcher_relationship",
+            "type": "string",
+            "format": "default",
+            "description": "when answering the question how would you describe the relationship between Moorea's residents and research stations: mixed signfies that they gave both good and bad examples of relationships between research stations and residents"
+          },
+          {
+            "name": "opinion_on_if_researchers_should_study_culture",
+            "type": "string",
+            "format": "default",
+            "title": "should researchers study culture",
+            "description": "if no, they indicated that this topics is not the place of scientists to work"
+          },
+          {
+            "name": "opinion_on_if_researchers_should_study_transportation",
+            "type": "string",
+            "format": "default",
+            "description": "if no, they indicated that this topics is not the place of scientists to work",
+            "title": "should researchers study transportation"
+          },
+          {
+            "name": "opinion_on_researchers_having_meetings_before_research",
+            "type": "string",
+            "format": "default",
+            "title": "should researchers hold community meetings before starting new research projcts",
+            "description": "If no, they indicated that scientists should not do this. "
+          },
+          {
+            "name": "opinion_on_giving_priority_jobs_to_Polynesians",
+            "type": "string",
+            "format": "default",
+            "description": "If no, they indicated that scientists should not do this. ",
+            "title": "should priority be given to Polynesians for jobs associated with researcher"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "engagement",
+    "participatory research",
+    "community"
+  ],
+  "name": "resident-researcher-data",
+  "title": "Relationship between residents and researchers",
+  "description": "Subset of data collected in Moorea, French Polynesia under French Polynesia and UCSB IRB approval. Data were collected in partnership with the Atiti'a Center.",
+  "contributors": [
+    {
+      "title": "L Zhao",
+      "role": "author"
+    }
+  ]
+}
