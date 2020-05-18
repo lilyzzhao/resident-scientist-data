@@ -1,487 +1,1 @@
-document_name,role,group,age_bracket,age_range,gender,location,ethnicity_cat_var,opinion_of_marine_management,very_happy_satisfied_with_job,family_and_friends_important_component_life,environment_important_component_life,helping_others_compassion_community_important_component_life,not_enough_interaction,opinion_on_resident_researcher_relationship,opinion_on_if_researchers_should_study_culture,opinion_on_if_researchers_should_study_transportation,opinion_on_researchers_having_meetings_before_research,opinion_on_giving_priority_jobs_to_Polynesians
-S16,scientist,scientist,25 to 35,under 35,F,White,Caucasian,don't know enough,Yes,No,Yes,Yes,Yes,mixed,No,No,Yes,Yes
-S18,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,Yes,Yes,Yes,Yes,Yes,mixed,No,No,Yes,Yes
-S19,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,NA,No,No,No,No,No,unclear,No,No,No,No
-S27,scientist,scientist,25 to 35,under 35,F,Gump,NA,don't know enough,Yes,Yes,Yes,Yes,Yes,unclear,No,No,No,Yes
-S51,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,don't know enough,No,No,No,No,Yes,bad relationship,No,No,Yes,Yes
-C34,resident,resident,35 to 50,35 and older,F,Paopao,Polynesian,satisfied,No,No,No,No,Yes,no interaction,No,No,Yes,Yes
-C35,resident,resident,under 25,under 35,M,Paopao,Polynesian,neutral,No,Yes,No,No,No,good relationship/or assumed good,No,No,Yes,Yes
-S36,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,No,No,No,Yes,Yes,bad relationship,No,Yes,Yes,Yes
-C110,resident,resident,50 and older,35 and older,F,Maharepa,Caucasian,satisfied,No,Yes,No,No,Yes,good relationship/or assumed good,No,Yes,Yes,Yes
-S28,scientist,scientist,under 25,under 35,F,Gump,Caucasian,don't know enough,No,No,No,Yes,Yes,no interaction,No,Yes,Yes,No
-S37,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,don't know enough,Yes,Yes,No,No,Yes,no interaction,No,Yes,Yes,Yes
-C47,resident,resident,50 and older,35 and older,M,Maharepa,Polynesian,satisfied,No,Yes,Yes,No,No,good relationship/or assumed good,No,Yes,Yes,Yes
-C13,resident,resident,50 and older,35 and older,F,Pihaena,Multiracial,unsatisfied,No,No,No,No,Yes,bad relationship,No,No,Yes,Yes
-C5,resident,resident,50 and older,35 and older,F,Papetoai,Polynesian,unsatisfied,No,Yes,No,No,No,bad relationship,No,No,Yes,Yes
-C4,resident,resident,35 to 50,35 and older,F,Pihaena,Multiracial,unsatisfied,No,Yes,No,Yes,Yes,good relationship/or assumed good,No,No,Yes,Yes
-C8,resident,resident,50 and older,35 and older,M,Atiha,Polynesian,neutral,No,No,No,No,No,bad relationship,No,Yes,Yes,Yes
-S58,scientist,scientist,25 to 35,under 35,F,Criobe,Caucasian,unsatisfied,No,No,No,No,No,bad relationship,Yes,No,Yes,Yes
-S61,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,unsatisfied,No,No,No,No,Yes,bad relationship,Yes,No,Yes,No
-C113,resident,resident,50 and older,35 and older,F,Haapiti,Caucasian,satisfied,No,Yes,Yes,No,Yes,good relationship/or assumed good,Yes,No,Yes,No
-S12,scientist,scientist,25 to 35,under 35,M,Criobe,Caucasian,satisfied,Yes,No,Yes,No,No,good relationship/or assumed good,Yes,No,Yes,Yes
-C112,resident,resident,25 to 35,under 35,F,Vaiare,Multiracial,neutral,No,Yes,Yes,Yes,No,mixed,Yes,No,Yes,Yes
-S33,scientist,scientist,25 to 35,under 35,F,Gump,Multiracial,don't know enough,No,Yes,Yes,Yes,Yes,mixed,Yes,No,No,Yes
-C36,resident,resident,35 to 50,35 and older,M,Pihaena,Caucasian,satisfied,Yes,No,No,No,Yes,good relationship/or assumed good,Yes,No,No,No
-C43,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,neutral,No,No,No,No,No,unclear,Yes,No,Yes,Yes
-C79,resident,resident,35 to 50,35 and older,M,Urufara,Multiracial,NA,Yes,Yes,No,No,Yes,unclear,Yes,No,Yes,Yes
-S17,scientist,scientist,under 25,under 35,M,Gump,Multiracial,NA,Yes,No,No,No,No,unclear,Yes,No,Yes,Yes
-S38,scientist,scientist,under 25,under 35,F,Gump,other not Caucausian,don't know enough,No,Yes,Yes,Yes,Yes,no interaction,Yes,No,Yes,Yes
-S43,scientist,scientist,25 to 35,under 35,M,Criobe,Multiracial,satisfied,No,Yes,No,Yes,Yes,bad relationship,Yes,No,Yes,Yes
-C116,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,Yes,No,No,Yes,no interaction,Yes,No,Yes,Yes
-C59,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,Yes,No,No,Yes,no interaction,Yes,No,Yes,Yes
-C66,resident,resident,under 25,under 35,F,Maharepa,Polynesian,unsatisfied,No,Yes,No,No,No,no interaction,Yes,No,Yes,Yes
-S42,scientist,scientist,35 to 50,35 and older,M,Criobe,other not Caucausian,satisfied,No,Yes,No,No,Yes,no interaction,Yes,No,Yes,Yes
-S63,scientist,scientist,35 to 50,35 and older,F,Criobe,Caucasian,neutral,No,No,No,No,Yes,no interaction,Yes,No,Yes,Yes
-C102,resident,resident,50 and older,35 and older,F,Paopao,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,No,Yes,Yes
-C89,resident,resident,50 and older,35 and older,F,Maatea,Multiracial,satisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,No,Yes,Yes
-C10,resident,resident,under 25,under 35,F,Papetoai,Polynesian,neutral,No,No,No,No,Yes,bad relationship,Yes,No,Yes,Yes
-C2,resident,resident,25 to 35,under 35,M,Paopao,Polynesian,don't know enough,No,Yes,No,No,No,mixed,Yes,No,Yes,Yes
-C20,resident,resident,50 and older,35 and older,M,Pihaena,Caucasian,neutral,No,No,No,Yes,Yes,unclear,Yes,No,Yes,Yes
-C101,resident,resident,50 and older,35 and older,M,Opunohu,Caucasian,don't know enough,No,No,No,No,Yes,bad relationship,Yes,Yes,Yes,Yes
-C33,resident,resident,35 to 50,35 and older,F,Maharepa,other not Caucausian,NA,Yes,No,No,No,Yes,bad relationship,Yes,Yes,Yes,Yes
-C80,resident,resident,50 and older,35 and older,M,Urufara,Polynesian,neutral,No,No,No,No,No,bad relationship,Yes,Yes,Yes,Yes
-S30,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,unsatisfied,No,No,No,No,Yes,bad relationship,Yes,Yes,Yes,Yes
-S54,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,unsatisfied,No,No,No,No,No,bad relationship,Yes,Yes,Yes,Yes
-C109,resident,resident,50 and older,35 and older,F,Afareaitu,Caucasian,neutral,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C23,resident,resident,25 to 35,under 35,F,Pihaena,Polynesian,satisfied,No,Yes,Yes,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C27,resident,resident,50 and older,35 and older,F,Pihaena,Multiracial,don't know enough,No,Yes,No,Yes,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C31,association,resident,under 25,under 35,F,Paopao,Caucasian,satisfied,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C32,resident,resident,25 to 35,under 35,F,Pihaena,Multiracial,unsatisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C38,resident,resident,under 25,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C39,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,unsatisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C41,resident,resident,50 and older,35 and older,M,Tiaia,Polynesian,satisfied,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C44,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,NA,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C49,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,neutral,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C53,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,No,Yes,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C55,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,don't know enough,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C56,resident,resident,50 and older,35 and older,F,Maharepa,Polynesian,unsatisfied,Yes,No,No,Yes,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C62,resident,resident,under 25,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C65,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C73,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C76,resident,resident,50 and older,35 and older,M,Maatea,Polynesian,NA,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C78,resident,resident,35 to 50,35 and older,F,Urufara,Polynesian,don't know enough,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C86,resident,resident,25 to 35,under 35,M,Maatea,Polynesian,neutral,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C87,resident,resident,under 25,under 35,M,Maatea,Multiracial,neutral,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C90,resident,resident,,,F,Pihaena,Polynesian,satisfied,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C92,resident,resident,35 to 50,35 and older,M,Papetoai,Polynesian,satisfied,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C93,resident,resident,25 to 35,under 35,M,Paopao,Polynesian,satisfied,Yes,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C96,resident,resident,35 to 50,35 and older,M,Temae,Polynesian,neutral,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C99,resident,resident,35 to 50,35 and older,F,Opunohu,Polynesian,satisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-S13,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,Yes,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-S22,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,Yes,Yes,Yes,Yes,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-S24,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,don't know enough,Yes,No,Yes,Yes,Yes,good relationship/or assumed good,Yes,Yes,No,Yes
-S57,scientist,scientist,25 to 35,under 35,M,Criobe,Caucasian,unsatisfied,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C1,resident,resident,35 to 50,35 and older,F,Paopao,Multiracial,satisfied,No,No,No,No,Yes,mixed,Yes,Yes,Yes,Yes
-C12,resident,resident,under 25,under 35,F,Pihaena,Polynesian,neutral,No,No,No,No,No,mixed,Yes,Yes,Yes,Yes
-C19,resident,resident,50 and older,35 and older,F,Papetoai,Polynesian,unsatisfied,No,No,No,No,Yes,mixed,Yes,Yes,Yes,Yes
-C24,resident,resident,50 and older,35 and older,M,Pihaena,Multiracial,satisfied,No,Yes,No,No,Yes,mixed,Yes,Yes,Yes,No
-C3,resident,resident,,,M,Paopao,Multiracial,unsatisfied,No,Yes,No,No,No,mixed,Yes,Yes,Yes,Yes
-C40,resident,resident,50 and older,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,No,Yes,mixed,Yes,Yes,Yes,Yes
-C100,association,resident,35 to 50,35 and older,M,Opunohu,Polynesian,neutral,No,No,No,No,No,unclear,Yes,Yes,NA,NA
-C104,association,resident,50 and older,35 and older,M,Haapiti,Polynesian,satisfied,Yes,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C11,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,satisfied,No,Yes,No,No,No,unclear,Yes,Yes,Yes,Yes
-C14,resident,resident,50 and older,35 and older,M,Pihaena,Polynesian,satisfied,No,Yes,No,No,Yes,unclear,Yes,Yes,Yes,Yes
-C25,resident,resident,25 to 35,under 35,F,Pihaena,Polynesian,unsatisfied,No,No,No,No,Yes,bad relationship,Yes,Yes,Yes,Yes
-C29,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,unclear,Yes,Yes,Yes,Yes
-C45,resident,resident,50 and older,35 and older,F,Pihaena,Polynesian,neutral,No,Yes,No,No,No,unclear,Yes,Yes,Yes,Yes
-C61,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,neutral,No,No,No,No,No,unclear,Yes,Yes,Yes,Yes
-C68,resident,resident,50 and older,35 and older,M,Teavaro,Polynesian,satisfied,No,No,Yes,No,No,unclear,Yes,Yes,Yes,Yes
-C69,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,unsatisfied,No,No,No,No,No,unclear,Yes,Yes,Yes,Yes
-C70,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,Yes,No,unclear,Yes,Yes,Yes,Yes
-C75,association,resident,50 and older,35 and older,M,Maatea,Polynesian,NA,Yes,No,No,No,Yes,unclear,Yes,Yes,Yes,Yes
-C83,resident,resident,35 to 50,35 and older,M,Papetoai,Polynesian,NA,No,No,No,No,Yes,unclear,Yes,Yes,Yes,Yes
-C85,resident,resident,35 to 50,35 and older,F,Maatea,Polynesian,satisfied,No,No,No,No,No,unclear,Yes,Yes,Yes,Yes
-C9,association,resident,35 to 50,35 and older,F,Papetoai,Caucasian,satisfied,No,No,No,No,Yes,unclear,Yes,Yes,Yes,Yes
-C98,resident,resident,35 to 50,35 and older,M,Paopao,Polynesian,satisfied,Yes,No,No,No,Yes,bad relationship,Yes,Yes,Yes,Yes
-S05,scientist,scientist,under 25,under 35,F,Gump,Caucasian,NA,Yes,No,Yes,Yes,Yes,no interaction,Yes,Yes,Yes,Yes
-S11,scientist,scientist,under 25,under 35,F,Gump,Caucasian,neutral,Yes,No,No,No,Yes,bad relationship,Yes,Yes,No,No
-S20,scientist,scientist,25 to 35,under 35,F,Gump,other not Caucausian,NA,No,Yes,No,No,Yes,unclear,Yes,Yes,Yes,Yes
-S21,scientist,scientist,25 to 35,under 35,M,Gump,NA,NA,No,Yes,Yes,Yes,Yes,unclear,Yes,Yes,Yes,Yes
-S23,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,NA,Yes,Yes,No,Yes,No,unclear,Yes,Yes,Yes,Yes
-S26,scientist,scientist,50 and older,35 and older,M,Gump,other not Caucausian,satisfied,No,No,No,Yes,Yes,unclear,Yes,Yes,Yes,Yes
-S3,scientist,scientist,under 25,under 35,F,Gump,Caucasian,NA,No,No,No,No,No,unclear,Yes,Yes,Yes,Yes
-S32,scientist,scientist,under 25,under 35,F,Gump,Caucasian,don't know enough,Yes,Yes,No,No,Yes,bad relationship,Yes,Yes,Yes,Yes
-S39,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,don't know enough,Yes,No,No,Yes,Yes,mixed,Yes,Yes,Yes,Yes
-S56,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,unsatisfied,No,No,No,No,No,unclear,Yes,Yes,Yes,Yes
-S65,scientist,scientist,35 to 50,35 and older,M,Criobe,Caucasian,neutral,No,No,Yes,No,No,unclear,Yes,Yes,Yes,Yes
-C105,resident,resident,25 to 35,under 35,F,Paopao,Polynesian,neutral,No,No,Yes,No,No,no interaction,Yes,Yes,Yes,Yes
-C106,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,satisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-C117,resident,resident,,,M,Teavaro,Polynesian,satisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-C15,resident,resident,50 and older,35 and older,F,Pihaena,Polynesian,unsatisfied,No,No,No,No,No,no interaction,Yes,Yes,NA,NA
-C16,resident,resident,50 and older,35 and older,M,Pihaena,Polynesian,satisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-C17,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,neutral,No,No,No,No,No,no interaction,Yes,Yes,Yes,Yes
-C28,resident,resident,25 to 35,under 35,M,Maharepa,Polynesian,neutral,No,Yes,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-C30,resident,resident,25 to 35,under 35,M,Maharepa,Multiracial,don't know enough,No,No,Yes,No,No,no interaction,Yes,Yes,Yes,Yes
-C51,resident,resident,under 25,under 35,M,Maharepa,Polynesian,satisfied,No,No,No,No,No,no interaction,Yes,Yes,Yes,Yes
-C52,resident,resident,50 and older,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,No,No,no interaction,Yes,Yes,Yes,Yes
-C63,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,satisfied,No,No,No,No,No,no interaction,Yes,Yes,Yes,Yes
-C67,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-C7,association,resident,50 and older,35 and older,F,Papetoai,Polynesian,unsatisfied,No,No,No,Yes,Yes,no interaction,Yes,Yes,No,Yes
-C72,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,neutral,No,Yes,No,No,No,no interaction,Yes,Yes,Yes,Yes
-C94,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,unsatisfied,No,Yes,No,Yes,No,no interaction,Yes,Yes,Yes,Yes
-S04,scientist,scientist,under 25,under 35,M,Gump,Caucasian,NA,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-S1,scientist,scientist,under 25,under 35,M,Gump,other not Caucausian,NA,Yes,No,No,No,No,no interaction,Yes,Yes,Yes,Yes
-S14,scientist,scientist,35 to 50,35 and older,M,Gump,Caucasian,don't know enough,No,No,No,Yes,Yes,no interaction,Yes,Yes,Yes,Yes
-S2,scientist,scientist,under 25,under 35,F,Gump,Caucasian,NA,Yes,No,Yes,Yes,Yes,no interaction,Yes,Yes,Yes,Yes
-S25,scientist,scientist,35 to 50,35 and older,M,Gump,Caucasian,NA,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-S31,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,neutral,No,Yes,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-S35,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,unsatisfied,Yes,Yes,No,Yes,Yes,no interaction,Yes,Yes,Yes,Yes
-S52,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,unsatisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-S59,scientist,scientist,25 to 35,under 35,M,Gump,other not Caucausian,don't know enough,No,No,No,No,No,no interaction,Yes,Yes,Yes,Yes
-C21,resident,resident,under 25,under 35,F,Pihaena,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C22,resident,resident,under 25,under 35,M,Pihaena,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C42,resident,resident,under 25,under 35,F,Tiaia,Multiracial,satisfied,No,Yes,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C48,resident,resident,35 to 50,35 and older,F,Maharepa,Multiracial,satisfied,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C50,resident,resident,35 to 50,35 and older,F,Maharepa,Multiracial,neutral,Yes,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C54,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,unsatisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C57,resident,resident,50 and older,35 and older,F,Maharepa,Polynesian,satisfied,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C58,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,neutral,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C60,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C64,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,neutral,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C71,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,neutral,Yes,Yes,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-C74,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C88,resident,resident,35 to 50,35 and older,F,Maatea,Polynesian,neutral,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C91,resident,resident,50 and older,35 and older,M,Atiha,Polynesian,satisfied,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C95,resident,resident,35 to 50,35 and older,M,Paopao,Polynesian,satisfied,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C118,resident,resident,35 to 50,35 and older,M,Vaiare,Caucasian,satisfied,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,Yes
-C114,resident,resident,25 to 35,under 35,M,Paopao,Polynesian,satisfied,No,No,No,No,No,bad relationship,Yes,No,Yes,Yes
-S64,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,unsatisfied,No,No,No,No,Yes,bad relationship,Yes,No,Yes,Yes
-S62,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,NA,No,No,No,No,No,good relationship/or assumed good,Yes,No,Yes,Yes
-S60,scientist,scientist,50 and older,35 and older,M,Criobe,Caucasian,satisfied,No,No,No,No,Yes,unclear,Yes,No,Yes,Yes
-S50,scientist,scientist,35 to 50,35 and older,M,Criobe,Caucasian,neutral,No,No,No,No,No,no interaction,Yes,No,Yes,Yes
-S45,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,No,No,No,No,Yes,bad relationship,Yes,Yes,Yes,Yes
-S48,scientist,scientist,25 to 35,under 35,F,Criobe,Caucasian,unsatisfied,No,No,No,No,No,bad relationship,Yes,Yes,Yes,Yes
-S47,scientist,scientist,35 to 50,35 and older,M,Criobe,NA,satisfied,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,No
-S53,scientist,scientist,50 and older,35 and older,M,Criobe,NA,neutral,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,No
-C115,resident,resident,35 to 50,35 and older,M,Maharepa,Multiracial,unsatisfied,No,No,Yes,No,Yes,mixed,Yes,Yes,Yes,Yes
-C111,resident,resident,50 and older,35 and older,M,Paopao,Caucasian,neutral,No,No,No,No,No,unclear,Yes,Yes,Yes,Yes
-S44,scientist,scientist,25 to 35,under 35,M,Gump,Multiracial,don't know enough,No,No,No,No,Yes,unclear,Yes,Yes,Yes,Yes
-S55,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,NA,No,No,No,No,No,unclear,Yes,Yes,Yes,Yes
-S46,scientist,scientist,25 to 35,under 35,F,Criobe,Caucasian,unsatisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,No
-S49,scientist,scientist,35 to 50,35 and older,M,Criobe,Caucasian,neutral,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
-=======,,,,,,,,,,,,,,,,,,
-"¥éËdocument_name	role	group	age_bracket	age_range	gender	location	ethnicity_cat_var	opinion_of_marine_management	very_happy_satisfied_with_job	family_and_friends_important_component_life	environment_important_component_life	helping_others_compassion_community_important_component_life	not_enough_interaction	opinion_on_resident_researcher_relationship	opinion_on_if_researchers_should_study_culture	opinion_on_if_researchers_should_study_transportation	opinion_on_researchers_having_meetings_before_research	opinion_on_giving_priority_jobs_to_Polynesians",,,,,,,,,,,,,,,,,,
-"S16	scientist	scientist	25 to 35	under 35	F	White	Caucasian	don't know enough	Yes	No	Yes	Yes	Yes	mixed	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S18	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	Yes	Yes	Yes	Yes	Yes	mixed	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S19	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	NA	No	No	No	No	No	unclear	No	No	No	No",,,,,,,,,,,,,,,,,,
-"S27	scientist	scientist	25 to 35	under 35	F	Gump	NA	don't know enough	Yes	Yes	Yes	Yes	Yes	unclear	No	No	No	Yes",,,,,,,,,,,,,,,,,,
-"S51	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	don't know enough	No	No	No	No	Yes	bad relationship	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C34	resident	resident	35 to 50	35 and older	F	Paopao	Polynesian	satisfied	No	No	No	No	Yes	no interaction	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C35	resident	resident	under 25	under 35	M	Paopao	Polynesian	neutral	No	Yes	No	No	No	good relationship/or assumed good	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S36	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	No	No	No	Yes	Yes	bad relationship	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C110	resident	resident	50 and older	35 and older	F	Maharepa	Caucasian	satisfied	No	Yes	No	No	Yes	good relationship/or assumed good	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S28	scientist	scientist	under 25	under 35	F	Gump	Caucasian	don't know enough	No	No	No	Yes	Yes	no interaction	No	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"S37	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	don't know enough	Yes	Yes	No	No	Yes	no interaction	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C47	resident	resident	50 and older	35 and older	M	Maharepa	Polynesian	satisfied	No	Yes	Yes	No	No	good relationship/or assumed good	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C13	resident	resident	50 and older	35 and older	F	Pihaena	Multiracial	unsatisfied	No	No	No	No	Yes	bad relationship	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C5	resident	resident	50 and older	35 and older	F	Papetoai	Polynesian	unsatisfied	No	Yes	No	No	No	bad relationship	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C4	resident	resident	35 to 50	35 and older	F	Pihaena	Multiracial	unsatisfied	No	Yes	No	Yes	Yes	good relationship/or assumed good	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C8	resident	resident	50 and older	35 and older	M	Atiha	Polynesian	neutral	No	No	No	No	No	bad relationship	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S58	scientist	scientist	25 to 35	under 35	F	Criobe	Caucasian	unsatisfied	No	No	No	No	No	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S61	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	unsatisfied	No	No	No	No	Yes	bad relationship	Yes	No	Yes	No",,,,,,,,,,,,,,,,,,
-"C113	resident	resident	50 and older	35 and older	F	Haapiti	Caucasian	satisfied	No	Yes	Yes	No	Yes	good relationship/or assumed good	Yes	No	Yes	No",,,,,,,,,,,,,,,,,,
-"S12	scientist	scientist	25 to 35	under 35	M	Criobe	Caucasian	satisfied	Yes	No	Yes	No	No	good relationship/or assumed good	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C112	resident	resident	25 to 35	under 35	F	Vaiare	Multiracial	neutral	No	Yes	Yes	Yes	No	mixed	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S33	scientist	scientist	25 to 35	under 35	F	Gump	Multiracial	don't know enough	No	Yes	Yes	Yes	Yes	mixed	Yes	No	No	Yes",,,,,,,,,,,,,,,,,,
-"C36	resident	resident	35 to 50	35 and older	M	Pihaena	Caucasian	satisfied	Yes	No	No	No	Yes	good relationship/or assumed good	Yes	No	No	No",,,,,,,,,,,,,,,,,,
-"C43	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	neutral	No	No	No	No	No	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C79	resident	resident	35 to 50	35 and older	M	Urufara	Multiracial	NA	Yes	Yes	No	No	Yes	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S17	scientist	scientist	under 25	under 35	M	Gump	Multiracial	NA	Yes	No	No	No	No	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S38	scientist	scientist	under 25	under 35	F	Gump	other not Caucausian	don't know enough	No	Yes	Yes	Yes	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S43	scientist	scientist	25 to 35	under 35	M	Criobe	Multiracial	satisfied	No	Yes	No	Yes	Yes	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C116	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	Yes	No	No	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C59	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	Yes	No	No	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C66	resident	resident	under 25	under 35	F	Maharepa	Polynesian	unsatisfied	No	Yes	No	No	No	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S42	scientist	scientist	35 to 50	35 and older	M	Criobe	other not Caucausian	satisfied	No	Yes	No	No	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S63	scientist	scientist	35 to 50	35 and older	F	Criobe	Caucasian	neutral	No	No	No	No	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C102	resident	resident	50 and older	35 and older	F	Paopao	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C89	resident	resident	50 and older	35 and older	F	Maatea	Multiracial	satisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C10	resident	resident	under 25	under 35	F	Papetoai	Polynesian	neutral	No	No	No	No	Yes	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C2	resident	resident	25 to 35	under 35	M	Paopao	Polynesian	don't know enough	No	Yes	No	No	No	mixed	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C20	resident	resident	50 and older	35 and older	M	Pihaena	Caucasian	neutral	No	No	No	Yes	Yes	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C101	resident	resident	50 and older	35 and older	M	Opunohu	Caucasian	don't know enough	No	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C33	resident	resident	35 to 50	35 and older	F	Maharepa	other not Caucausian	NA	Yes	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C80	resident	resident	50 and older	35 and older	M	Urufara	Polynesian	neutral	No	No	No	No	No	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S30	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	unsatisfied	No	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S54	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	unsatisfied	No	No	No	No	No	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C109	resident	resident	50 and older	35 and older	F	Afareaitu	Caucasian	neutral	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C23	resident	resident	25 to 35	under 35	F	Pihaena	Polynesian	satisfied	No	Yes	Yes	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C27	resident	resident	50 and older	35 and older	F	Pihaena	Multiracial	don't know enough	No	Yes	No	Yes	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C31	association	resident	under 25	under 35	F	Paopao	Caucasian	satisfied	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C32	resident	resident	25 to 35	under 35	F	Pihaena	Multiracial	unsatisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C38	resident	resident	under 25	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C39	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	unsatisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C41	resident	resident	50 and older	35 and older	M	Tiaia	Polynesian	satisfied	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C44	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	NA	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C49	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	neutral	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C53	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	No	Yes	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C55	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	don't know enough	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C56	resident	resident	50 and older	35 and older	F	Maharepa	Polynesian	unsatisfied	Yes	No	No	Yes	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C62	resident	resident	under 25	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C65	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C73	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C76	resident	resident	50 and older	35 and older	M	Maatea	Polynesian	NA	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C78	resident	resident	35 to 50	35 and older	F	Urufara	Polynesian	don't know enough	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C86	resident	resident	25 to 35	under 35	M	Maatea	Polynesian	neutral	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C87	resident	resident	under 25	under 35	M	Maatea	Multiracial	neutral	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C90	resident	resident			F	Pihaena	Polynesian	satisfied	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C92	resident	resident	35 to 50	35 and older	M	Papetoai	Polynesian	satisfied	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C93	resident	resident	25 to 35	under 35	M	Paopao	Polynesian	satisfied	Yes	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C96	resident	resident	35 to 50	35 and older	M	Temae	Polynesian	neutral	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C99	resident	resident	35 to 50	35 and older	F	Opunohu	Polynesian	satisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S13	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	Yes	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S22	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	Yes	Yes	Yes	Yes	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S24	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	don't know enough	Yes	No	Yes	Yes	Yes	good relationship/or assumed good	Yes	Yes	No	Yes",,,,,,,,,,,,,,,,,,
-"S57	scientist	scientist	25 to 35	under 35	M	Criobe	Caucasian	unsatisfied	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C1	resident	resident	35 to 50	35 and older	F	Paopao	Multiracial	satisfied	No	No	No	No	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C12	resident	resident	under 25	under 35	F	Pihaena	Polynesian	neutral	No	No	No	No	No	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C19	resident	resident	50 and older	35 and older	F	Papetoai	Polynesian	unsatisfied	No	No	No	No	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C24	resident	resident	50 and older	35 and older	M	Pihaena	Multiracial	satisfied	No	Yes	No	No	Yes	mixed	Yes	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"C3	resident	resident			M	Paopao	Multiracial	unsatisfied	No	Yes	No	No	No	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C40	resident	resident	50 and older	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	No	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C100	association	resident	35 to 50	35 and older	M	Opunohu	Polynesian	neutral	No	No	No	No	No	unclear	Yes	Yes	NA	NA",,,,,,,,,,,,,,,,,,
-"C104	association	resident	50 and older	35 and older	M	Haapiti	Polynesian	satisfied	Yes	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C11	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	satisfied	No	Yes	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C14	resident	resident	50 and older	35 and older	M	Pihaena	Polynesian	satisfied	No	Yes	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C25	resident	resident	25 to 35	under 35	F	Pihaena	Polynesian	unsatisfied	No	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C29	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C45	resident	resident	50 and older	35 and older	F	Pihaena	Polynesian	neutral	No	Yes	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C61	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	neutral	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C68	resident	resident	50 and older	35 and older	M	Teavaro	Polynesian	satisfied	No	No	Yes	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C69	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	unsatisfied	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C70	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	Yes	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C75	association	resident	50 and older	35 and older	M	Maatea	Polynesian	NA	Yes	No	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C83	resident	resident	35 to 50	35 and older	M	Papetoai	Polynesian	NA	No	No	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C85	resident	resident	35 to 50	35 and older	F	Maatea	Polynesian	satisfied	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C9	association	resident	35 to 50	35 and older	F	Papetoai	Caucasian	satisfied	No	No	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C98	resident	resident	35 to 50	35 and older	M	Paopao	Polynesian	satisfied	Yes	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S05	scientist	scientist	under 25	under 35	F	Gump	Caucasian	NA	Yes	No	Yes	Yes	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S11	scientist	scientist	under 25	under 35	F	Gump	Caucasian	neutral	Yes	No	No	No	Yes	bad relationship	Yes	Yes	No	No",,,,,,,,,,,,,,,,,,
-"S20	scientist	scientist	25 to 35	under 35	F	Gump	other not Caucausian	NA	No	Yes	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S21	scientist	scientist	25 to 35	under 35	M	Gump	NA	NA	No	Yes	Yes	Yes	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S23	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	NA	Yes	Yes	No	Yes	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S26	scientist	scientist	50 and older	35 and older	M	Gump	other not Caucausian	satisfied	No	No	No	Yes	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S3	scientist	scientist	under 25	under 35	F	Gump	Caucasian	NA	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S32	scientist	scientist	under 25	under 35	F	Gump	Caucasian	don't know enough	Yes	Yes	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S39	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	don't know enough	Yes	No	No	Yes	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S56	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	unsatisfied	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S65	scientist	scientist	35 to 50	35 and older	M	Criobe	Caucasian	neutral	No	No	Yes	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C105	resident	resident	25 to 35	under 35	F	Paopao	Polynesian	neutral	No	No	Yes	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C106	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	satisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C117	resident	resident			M	Teavaro	Polynesian	satisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C15	resident	resident	50 and older	35 and older	F	Pihaena	Polynesian	unsatisfied	No	No	No	No	No	no interaction	Yes	Yes	NA	NA",,,,,,,,,,,,,,,,,,
-"C16	resident	resident	50 and older	35 and older	M	Pihaena	Polynesian	satisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C17	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	neutral	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C28	resident	resident	25 to 35	under 35	M	Maharepa	Polynesian	neutral	No	Yes	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C30	resident	resident	25 to 35	under 35	M	Maharepa	Multiracial	don't know enough	No	No	Yes	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C51	resident	resident	under 25	under 35	M	Maharepa	Polynesian	satisfied	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C52	resident	resident	50 and older	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C63	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	satisfied	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C67	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C7	association	resident	50 and older	35 and older	F	Papetoai	Polynesian	unsatisfied	No	No	No	Yes	Yes	no interaction	Yes	Yes	No	Yes",,,,,,,,,,,,,,,,,,
-"C72	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	neutral	No	Yes	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C94	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	unsatisfied	No	Yes	No	Yes	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S04	scientist	scientist	under 25	under 35	M	Gump	Caucasian	NA	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S1	scientist	scientist	under 25	under 35	M	Gump	other not Caucausian	NA	Yes	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S14	scientist	scientist	35 to 50	35 and older	M	Gump	Caucasian	don't know enough	No	No	No	Yes	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S2	scientist	scientist	under 25	under 35	F	Gump	Caucasian	NA	Yes	No	Yes	Yes	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S25	scientist	scientist	35 to 50	35 and older	M	Gump	Caucasian	NA	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S31	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	neutral	No	Yes	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S35	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	unsatisfied	Yes	Yes	No	Yes	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S52	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	unsatisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S59	scientist	scientist	25 to 35	under 35	M	Gump	other not Caucausian	don't know enough	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C21	resident	resident	under 25	under 35	F	Pihaena	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C22	resident	resident	under 25	under 35	M	Pihaena	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C42	resident	resident	under 25	under 35	F	Tiaia	Multiracial	satisfied	No	Yes	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C48	resident	resident	35 to 50	35 and older	F	Maharepa	Multiracial	satisfied	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C50	resident	resident	35 to 50	35 and older	F	Maharepa	Multiracial	neutral	Yes	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C54	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	unsatisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C57	resident	resident	50 and older	35 and older	F	Maharepa	Polynesian	satisfied	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C58	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	neutral	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C60	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C64	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	neutral	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C71	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	neutral	Yes	Yes	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C74	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C88	resident	resident	35 to 50	35 and older	F	Maatea	Polynesian	neutral	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C91	resident	resident	50 and older	35 and older	M	Atiha	Polynesian	satisfied	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C95	resident	resident	35 to 50	35 and older	M	Paopao	Polynesian	satisfied	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C118	resident	resident	35 to 50	35 and older	M	Vaiare	Caucasian	satisfied	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C114	resident	resident	25 to 35	under 35	M	Paopao	Polynesian	satisfied	No	No	No	No	No	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S64	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	unsatisfied	No	No	No	No	Yes	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S62	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	NA	No	No	No	No	No	good relationship/or assumed good	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S60	scientist	scientist	50 and older	35 and older	M	Criobe	Caucasian	satisfied	No	No	No	No	Yes	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S50	scientist	scientist	35 to 50	35 and older	M	Criobe	Caucasian	neutral	No	No	No	No	No	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S45	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	No	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S48	scientist	scientist	25 to 35	under 35	F	Criobe	Caucasian	unsatisfied	No	No	No	No	No	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S47	scientist	scientist	35 to 50	35 and older	M	Criobe	NA	satisfied	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"S53	scientist	scientist	50 and older	35 and older	M	Criobe	NA	neutral	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"C115	resident	resident	35 to 50	35 and older	M	Maharepa	Multiracial	unsatisfied	No	No	Yes	No	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C111	resident	resident	50 and older	35 and older	M	Paopao	Caucasian	neutral	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S44	scientist	scientist	25 to 35	under 35	M	Gump	Multiracial	don't know enough	No	No	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S55	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	NA	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S46	scientist	scientist	25 to 35	under 35	F	Criobe	Caucasian	unsatisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"S49	scientist	scientist	35 to 50	35 and older	M	Criobe	Caucasian	neutral	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
->>>>>>> Stashed changes,,,,,,,,,,,,,,,,,,
-=======,,,,,,,,,,,,,,,,,,
-"¥éËdocument_name	role	group	age_bracket	age_range	gender	location	ethnicity_cat_var	opinion_of_marine_management	very_happy_satisfied_with_job	family_and_friends_important_component_life	environment_important_component_life	helping_others_compassion_community_important_component_life	not_enough_interaction	opinion_on_resident_researcher_relationship	opinion_on_if_researchers_should_study_culture	opinion_on_if_researchers_should_study_transportation	opinion_on_researchers_having_meetings_before_research	opinion_on_giving_priority_jobs_to_Polynesians",,,,,,,,,,,,,,,,,,
-"S16	scientist	scientist	25 to 35	under 35	F	White	Caucasian	don't know enough	Yes	No	Yes	Yes	Yes	mixed	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S18	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	Yes	Yes	Yes	Yes	Yes	mixed	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S19	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	NA	No	No	No	No	No	unclear	No	No	No	No",,,,,,,,,,,,,,,,,,
-"S27	scientist	scientist	25 to 35	under 35	F	Gump	NA	don't know enough	Yes	Yes	Yes	Yes	Yes	unclear	No	No	No	Yes",,,,,,,,,,,,,,,,,,
-"S51	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	don't know enough	No	No	No	No	Yes	bad relationship	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C34	resident	resident	35 to 50	35 and older	F	Paopao	Polynesian	satisfied	No	No	No	No	Yes	no interaction	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C35	resident	resident	under 25	under 35	M	Paopao	Polynesian	neutral	No	Yes	No	No	No	good relationship/or assumed good	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S36	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	No	No	No	Yes	Yes	bad relationship	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C110	resident	resident	50 and older	35 and older	F	Maharepa	Caucasian	satisfied	No	Yes	No	No	Yes	good relationship/or assumed good	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S28	scientist	scientist	under 25	under 35	F	Gump	Caucasian	don't know enough	No	No	No	Yes	Yes	no interaction	No	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"S37	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	don't know enough	Yes	Yes	No	No	Yes	no interaction	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C47	resident	resident	50 and older	35 and older	M	Maharepa	Polynesian	satisfied	No	Yes	Yes	No	No	good relationship/or assumed good	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C13	resident	resident	50 and older	35 and older	F	Pihaena	Multiracial	unsatisfied	No	No	No	No	Yes	bad relationship	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C5	resident	resident	50 and older	35 and older	F	Papetoai	Polynesian	unsatisfied	No	Yes	No	No	No	bad relationship	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C4	resident	resident	35 to 50	35 and older	F	Pihaena	Multiracial	unsatisfied	No	Yes	No	Yes	Yes	good relationship/or assumed good	No	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C8	resident	resident	50 and older	35 and older	M	Atiha	Polynesian	neutral	No	No	No	No	No	bad relationship	No	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S58	scientist	scientist	25 to 35	under 35	F	Criobe	Caucasian	unsatisfied	No	No	No	No	No	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S61	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	unsatisfied	No	No	No	No	Yes	bad relationship	Yes	No	Yes	No",,,,,,,,,,,,,,,,,,
-"C113	resident	resident	50 and older	35 and older	F	Haapiti	Caucasian	satisfied	No	Yes	Yes	No	Yes	good relationship/or assumed good	Yes	No	Yes	No",,,,,,,,,,,,,,,,,,
-"S12	scientist	scientist	25 to 35	under 35	M	Criobe	Caucasian	satisfied	Yes	No	Yes	No	No	good relationship/or assumed good	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C112	resident	resident	25 to 35	under 35	F	Vaiare	Multiracial	neutral	No	Yes	Yes	Yes	No	mixed	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S33	scientist	scientist	25 to 35	under 35	F	Gump	Multiracial	don't know enough	No	Yes	Yes	Yes	Yes	mixed	Yes	No	No	Yes",,,,,,,,,,,,,,,,,,
-"C36	resident	resident	35 to 50	35 and older	M	Pihaena	Caucasian	satisfied	Yes	No	No	No	Yes	good relationship/or assumed good	Yes	No	No	No",,,,,,,,,,,,,,,,,,
-"C43	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	neutral	No	No	No	No	No	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C79	resident	resident	35 to 50	35 and older	M	Urufara	Multiracial	NA	Yes	Yes	No	No	Yes	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S17	scientist	scientist	under 25	under 35	M	Gump	Multiracial	NA	Yes	No	No	No	No	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S38	scientist	scientist	under 25	under 35	F	Gump	other not Caucausian	don't know enough	No	Yes	Yes	Yes	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S43	scientist	scientist	25 to 35	under 35	M	Criobe	Multiracial	satisfied	No	Yes	No	Yes	Yes	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C116	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	Yes	No	No	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C59	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	Yes	No	No	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C66	resident	resident	under 25	under 35	F	Maharepa	Polynesian	unsatisfied	No	Yes	No	No	No	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S42	scientist	scientist	35 to 50	35 and older	M	Criobe	other not Caucausian	satisfied	No	Yes	No	No	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S63	scientist	scientist	35 to 50	35 and older	F	Criobe	Caucasian	neutral	No	No	No	No	Yes	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C102	resident	resident	50 and older	35 and older	F	Paopao	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C89	resident	resident	50 and older	35 and older	F	Maatea	Multiracial	satisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C10	resident	resident	under 25	under 35	F	Papetoai	Polynesian	neutral	No	No	No	No	Yes	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C2	resident	resident	25 to 35	under 35	M	Paopao	Polynesian	don't know enough	No	Yes	No	No	No	mixed	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C20	resident	resident	50 and older	35 and older	M	Pihaena	Caucasian	neutral	No	No	No	Yes	Yes	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C101	resident	resident	50 and older	35 and older	M	Opunohu	Caucasian	don't know enough	No	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C33	resident	resident	35 to 50	35 and older	F	Maharepa	other not Caucausian	NA	Yes	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C80	resident	resident	50 and older	35 and older	M	Urufara	Polynesian	neutral	No	No	No	No	No	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S30	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	unsatisfied	No	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S54	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	unsatisfied	No	No	No	No	No	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C109	resident	resident	50 and older	35 and older	F	Afareaitu	Caucasian	neutral	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C23	resident	resident	25 to 35	under 35	F	Pihaena	Polynesian	satisfied	No	Yes	Yes	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C27	resident	resident	50 and older	35 and older	F	Pihaena	Multiracial	don't know enough	No	Yes	No	Yes	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C31	association	resident	under 25	under 35	F	Paopao	Caucasian	satisfied	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C32	resident	resident	25 to 35	under 35	F	Pihaena	Multiracial	unsatisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C38	resident	resident	under 25	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C39	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	unsatisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C41	resident	resident	50 and older	35 and older	M	Tiaia	Polynesian	satisfied	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C44	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	NA	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C49	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	neutral	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C53	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	No	Yes	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C55	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	don't know enough	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C56	resident	resident	50 and older	35 and older	F	Maharepa	Polynesian	unsatisfied	Yes	No	No	Yes	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C62	resident	resident	under 25	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C65	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C73	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C76	resident	resident	50 and older	35 and older	M	Maatea	Polynesian	NA	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C78	resident	resident	35 to 50	35 and older	F	Urufara	Polynesian	don't know enough	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C86	resident	resident	25 to 35	under 35	M	Maatea	Polynesian	neutral	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C87	resident	resident	under 25	under 35	M	Maatea	Multiracial	neutral	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C90	resident	resident			F	Pihaena	Polynesian	satisfied	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C92	resident	resident	35 to 50	35 and older	M	Papetoai	Polynesian	satisfied	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C93	resident	resident	25 to 35	under 35	M	Paopao	Polynesian	satisfied	Yes	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C96	resident	resident	35 to 50	35 and older	M	Temae	Polynesian	neutral	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C99	resident	resident	35 to 50	35 and older	F	Opunohu	Polynesian	satisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S13	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	Yes	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S22	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	Yes	Yes	Yes	Yes	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S24	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	don't know enough	Yes	No	Yes	Yes	Yes	good relationship/or assumed good	Yes	Yes	No	Yes",,,,,,,,,,,,,,,,,,
-"S57	scientist	scientist	25 to 35	under 35	M	Criobe	Caucasian	unsatisfied	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C1	resident	resident	35 to 50	35 and older	F	Paopao	Multiracial	satisfied	No	No	No	No	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C12	resident	resident	under 25	under 35	F	Pihaena	Polynesian	neutral	No	No	No	No	No	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C19	resident	resident	50 and older	35 and older	F	Papetoai	Polynesian	unsatisfied	No	No	No	No	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C24	resident	resident	50 and older	35 and older	M	Pihaena	Multiracial	satisfied	No	Yes	No	No	Yes	mixed	Yes	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"C3	resident	resident			M	Paopao	Multiracial	unsatisfied	No	Yes	No	No	No	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C40	resident	resident	50 and older	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	No	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C100	association	resident	35 to 50	35 and older	M	Opunohu	Polynesian	neutral	No	No	No	No	No	unclear	Yes	Yes	NA	NA",,,,,,,,,,,,,,,,,,
-"C104	association	resident	50 and older	35 and older	M	Haapiti	Polynesian	satisfied	Yes	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C11	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	satisfied	No	Yes	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C14	resident	resident	50 and older	35 and older	M	Pihaena	Polynesian	satisfied	No	Yes	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C25	resident	resident	25 to 35	under 35	F	Pihaena	Polynesian	unsatisfied	No	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C29	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C45	resident	resident	50 and older	35 and older	F	Pihaena	Polynesian	neutral	No	Yes	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C61	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	neutral	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C68	resident	resident	50 and older	35 and older	M	Teavaro	Polynesian	satisfied	No	No	Yes	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C69	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	unsatisfied	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C70	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	Yes	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C75	association	resident	50 and older	35 and older	M	Maatea	Polynesian	NA	Yes	No	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C83	resident	resident	35 to 50	35 and older	M	Papetoai	Polynesian	NA	No	No	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C85	resident	resident	35 to 50	35 and older	F	Maatea	Polynesian	satisfied	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C9	association	resident	35 to 50	35 and older	F	Papetoai	Caucasian	satisfied	No	No	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C98	resident	resident	35 to 50	35 and older	M	Paopao	Polynesian	satisfied	Yes	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S05	scientist	scientist	under 25	under 35	F	Gump	Caucasian	NA	Yes	No	Yes	Yes	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S11	scientist	scientist	under 25	under 35	F	Gump	Caucasian	neutral	Yes	No	No	No	Yes	bad relationship	Yes	Yes	No	No",,,,,,,,,,,,,,,,,,
-"S20	scientist	scientist	25 to 35	under 35	F	Gump	other not Caucausian	NA	No	Yes	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S21	scientist	scientist	25 to 35	under 35	M	Gump	NA	NA	No	Yes	Yes	Yes	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S23	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	NA	Yes	Yes	No	Yes	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S26	scientist	scientist	50 and older	35 and older	M	Gump	other not Caucausian	satisfied	No	No	No	Yes	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S3	scientist	scientist	under 25	under 35	F	Gump	Caucasian	NA	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S32	scientist	scientist	under 25	under 35	F	Gump	Caucasian	don't know enough	Yes	Yes	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S39	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	don't know enough	Yes	No	No	Yes	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S56	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	unsatisfied	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S65	scientist	scientist	35 to 50	35 and older	M	Criobe	Caucasian	neutral	No	No	Yes	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C105	resident	resident	25 to 35	under 35	F	Paopao	Polynesian	neutral	No	No	Yes	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C106	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	satisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C117	resident	resident			M	Teavaro	Polynesian	satisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C15	resident	resident	50 and older	35 and older	F	Pihaena	Polynesian	unsatisfied	No	No	No	No	No	no interaction	Yes	Yes	NA	NA",,,,,,,,,,,,,,,,,,
-"C16	resident	resident	50 and older	35 and older	M	Pihaena	Polynesian	satisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C17	resident	resident	35 to 50	35 and older	F	Pihaena	Polynesian	neutral	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C28	resident	resident	25 to 35	under 35	M	Maharepa	Polynesian	neutral	No	Yes	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C30	resident	resident	25 to 35	under 35	M	Maharepa	Multiracial	don't know enough	No	No	Yes	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C51	resident	resident	under 25	under 35	M	Maharepa	Polynesian	satisfied	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C52	resident	resident	50 and older	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C63	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	satisfied	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C67	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	satisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C7	association	resident	50 and older	35 and older	F	Papetoai	Polynesian	unsatisfied	No	No	No	Yes	Yes	no interaction	Yes	Yes	No	Yes",,,,,,,,,,,,,,,,,,
-"C72	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	neutral	No	Yes	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C94	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	unsatisfied	No	Yes	No	Yes	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S04	scientist	scientist	under 25	under 35	M	Gump	Caucasian	NA	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S1	scientist	scientist	under 25	under 35	M	Gump	other not Caucausian	NA	Yes	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S14	scientist	scientist	35 to 50	35 and older	M	Gump	Caucasian	don't know enough	No	No	No	Yes	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S2	scientist	scientist	under 25	under 35	F	Gump	Caucasian	NA	Yes	No	Yes	Yes	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S25	scientist	scientist	35 to 50	35 and older	M	Gump	Caucasian	NA	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S31	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	neutral	No	Yes	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S35	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	unsatisfied	Yes	Yes	No	Yes	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S52	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	unsatisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S59	scientist	scientist	25 to 35	under 35	M	Gump	other not Caucausian	don't know enough	No	No	No	No	No	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C21	resident	resident	under 25	under 35	F	Pihaena	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C22	resident	resident	under 25	under 35	M	Pihaena	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C42	resident	resident	under 25	under 35	F	Tiaia	Multiracial	satisfied	No	Yes	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C48	resident	resident	35 to 50	35 and older	F	Maharepa	Multiracial	satisfied	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C50	resident	resident	35 to 50	35 and older	F	Maharepa	Multiracial	neutral	Yes	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C54	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	unsatisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C57	resident	resident	50 and older	35 and older	F	Maharepa	Polynesian	satisfied	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C58	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	neutral	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C60	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C64	resident	resident	35 to 50	35 and older	M	Maharepa	Polynesian	neutral	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C71	resident	resident	35 to 50	35 and older	F	Maharepa	Polynesian	neutral	Yes	Yes	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C74	resident	resident	25 to 35	under 35	F	Maharepa	Polynesian	satisfied	No	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C88	resident	resident	35 to 50	35 and older	F	Maatea	Polynesian	neutral	No	No	No	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C91	resident	resident	50 and older	35 and older	M	Atiha	Polynesian	satisfied	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C95	resident	resident	35 to 50	35 and older	M	Paopao	Polynesian	satisfied	Yes	Yes	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C118	resident	resident	35 to 50	35 and older	M	Vaiare	Caucasian	satisfied	No	No	Yes	No	Yes	good relationship/or assumed good	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C114	resident	resident	25 to 35	under 35	M	Paopao	Polynesian	satisfied	No	No	No	No	No	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S64	scientist	scientist	25 to 35	under 35	M	Gump	Caucasian	unsatisfied	No	No	No	No	Yes	bad relationship	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S62	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	NA	No	No	No	No	No	good relationship/or assumed good	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S60	scientist	scientist	50 and older	35 and older	M	Criobe	Caucasian	satisfied	No	No	No	No	Yes	unclear	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S50	scientist	scientist	35 to 50	35 and older	M	Criobe	Caucasian	neutral	No	No	No	No	No	no interaction	Yes	No	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S45	scientist	scientist	25 to 35	under 35	F	Gump	Caucasian	don't know enough	No	No	No	No	Yes	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S48	scientist	scientist	25 to 35	under 35	F	Criobe	Caucasian	unsatisfied	No	No	No	No	No	bad relationship	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S47	scientist	scientist	35 to 50	35 and older	M	Criobe	NA	satisfied	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"S53	scientist	scientist	50 and older	35 and older	M	Criobe	NA	neutral	No	No	No	No	No	good relationship/or assumed good	Yes	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"C115	resident	resident	35 to 50	35 and older	M	Maharepa	Multiracial	unsatisfied	No	No	Yes	No	Yes	mixed	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"C111	resident	resident	50 and older	35 and older	M	Paopao	Caucasian	neutral	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S44	scientist	scientist	25 to 35	under 35	M	Gump	Multiracial	don't know enough	No	No	No	No	Yes	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S55	scientist	scientist	50 and older	35 and older	M	Gump	Caucasian	NA	No	No	No	No	No	unclear	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
-"S46	scientist	scientist	25 to 35	under 35	F	Criobe	Caucasian	unsatisfied	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	No",,,,,,,,,,,,,,,,,,
-"S49	scientist	scientist	35 to 50	35 and older	M	Criobe	Caucasian	neutral	No	No	No	No	Yes	no interaction	Yes	Yes	Yes	Yes",,,,,,,,,,,,,,,,,,
->>>>>>> Stashed changes,,,,,,,,,,,,,,,,,,
+ï»¿document_name,role,group,age_bracket,age_range,gender,location,ethnicity_cat_var,opinion_of_marine_management,very_happy_satisfied_with_job,family_and_friends_important_component_life,environment_important_component_life,helping_others_compassion_community_important_component_life,not_enough_interaction,opinion_on_resident_researcher_relationship,opinion_on_if_researchers_should_study_culture,opinion_on_if_researchers_should_study_transportation,opinion_on_researchers_having_meetings_before_research,opinion_on_giving_priority_jobs_to_PolynesiansS16,scientist,scientist,25 to 35,under 35,F,White,Caucasian,don't know enough,Yes,No,Yes,Yes,Yes,mixed,No,No,Yes,YesS18,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,Yes,Yes,Yes,Yes,Yes,mixed,No,No,Yes,YesS19,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,NA,No,No,No,No,No,unclear,No,No,No,NoS27,scientist,scientist,25 to 35,under 35,F,Gump,NA,don't know enough,Yes,Yes,Yes,Yes,Yes,unclear,No,No,No,YesS51,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,don't know enough,No,No,No,No,Yes,bad relationship,No,No,Yes,YesC34,resident,resident,35 to 50,35 and older,F,Paopao,Polynesian,satisfied,No,No,No,No,Yes,no interaction,No,No,Yes,YesC35,resident,resident,under 25,under 35,M,Paopao,Polynesian,neutral,No,Yes,No,No,No,good relationship/or assumed good,No,No,Yes,YesS36,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,No,No,No,Yes,Yes,bad relationship,No,Yes,Yes,YesC110,resident,resident,50 and older,35 and older,F,Maharepa,Caucasian,satisfied,No,Yes,No,No,Yes,good relationship/or assumed good,No,Yes,Yes,YesS28,scientist,scientist,under 25,under 35,F,Gump,Caucasian,don't know enough,No,No,No,Yes,Yes,no interaction,No,Yes,Yes,NoS37,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,don't know enough,Yes,Yes,No,No,Yes,no interaction,No,Yes,Yes,YesC47,resident,resident,50 and older,35 and older,M,Maharepa,Polynesian,satisfied,No,Yes,Yes,No,No,good relationship/or assumed good,No,Yes,Yes,YesC13,resident,resident,50 and older,35 and older,F,Pihaena,Multiracial,unsatisfied,No,No,No,No,Yes,bad relationship,No,No,Yes,YesC5,resident,resident,50 and older,35 and older,F,Papetoai,Polynesian,unsatisfied,No,Yes,No,No,No,bad relationship,No,No,Yes,YesC4,resident,resident,35 to 50,35 and older,F,Pihaena,Multiracial,unsatisfied,No,Yes,No,Yes,Yes,good relationship/or assumed good,No,No,Yes,YesC8,resident,resident,50 and older,35 and older,M,Atiha,Polynesian,neutral,No,No,No,No,No,bad relationship,No,Yes,Yes,YesS58,scientist,scientist,25 to 35,under 35,F,Criobe,Caucasian,unsatisfied,No,No,No,No,No,bad relationship,Yes,No,Yes,YesS61,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,unsatisfied,No,No,No,No,Yes,bad relationship,Yes,No,Yes,NoC113,resident,resident,50 and older,35 and older,F,Haapiti,Caucasian,satisfied,No,Yes,Yes,No,Yes,good relationship/or assumed good,Yes,No,Yes,NoS12,scientist,scientist,25 to 35,under 35,M,Criobe,Caucasian,satisfied,Yes,No,Yes,No,No,good relationship/or assumed good,Yes,No,Yes,YesC112,resident,resident,25 to 35,under 35,F,Vaiare,Multiracial,neutral,No,Yes,Yes,Yes,No,mixed,Yes,No,Yes,YesS33,scientist,scientist,25 to 35,under 35,F,Gump,Multiracial,don't know enough,No,Yes,Yes,Yes,Yes,mixed,Yes,No,No,YesC36,resident,resident,35 to 50,35 and older,M,Pihaena,Caucasian,satisfied,Yes,No,No,No,Yes,good relationship/or assumed good,Yes,No,No,NoC43,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,neutral,No,No,No,No,No,unclear,Yes,No,Yes,YesC79,resident,resident,35 to 50,35 and older,M,Urufara,Multiracial,NA,Yes,Yes,No,No,Yes,unclear,Yes,No,Yes,YesS17,scientist,scientist,under 25,under 35,M,Gump,Multiracial,NA,Yes,No,No,No,No,unclear,Yes,No,Yes,YesS38,scientist,scientist,under 25,under 35,F,Gump,other not Caucausian,don't know enough,No,Yes,Yes,Yes,Yes,no interaction,Yes,No,Yes,YesS43,scientist,scientist,25 to 35,under 35,M,Criobe,Multiracial,satisfied,No,Yes,No,Yes,Yes,bad relationship,Yes,No,Yes,YesC116,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,Yes,No,No,Yes,no interaction,Yes,No,Yes,YesC59,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,Yes,No,No,Yes,no interaction,Yes,No,Yes,YesC66,resident,resident,under 25,under 35,F,Maharepa,Polynesian,unsatisfied,No,Yes,No,No,No,no interaction,Yes,No,Yes,YesS42,scientist,scientist,35 to 50,35 and older,M,Criobe,other not Caucausian,satisfied,No,Yes,No,No,Yes,no interaction,Yes,No,Yes,YesS63,scientist,scientist,35 to 50,35 and older,F,Criobe,Caucasian,neutral,No,No,No,No,Yes,no interaction,Yes,No,Yes,YesC102,resident,resident,50 and older,35 and older,F,Paopao,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,No,Yes,YesC89,resident,resident,50 and older,35 and older,F,Maatea,Multiracial,satisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,No,Yes,YesC10,resident,resident,under 25,under 35,F,Papetoai,Polynesian,neutral,No,No,No,No,Yes,bad relationship,Yes,No,Yes,YesC2,resident,resident,25 to 35,under 35,M,Paopao,Polynesian,don't know enough,No,Yes,No,No,No,mixed,Yes,No,Yes,YesC20,resident,resident,50 and older,35 and older,M,Pihaena,Caucasian,neutral,No,No,No,Yes,Yes,unclear,Yes,No,Yes,YesC101,resident,resident,50 and older,35 and older,M,Opunohu,Caucasian,don't know enough,No,No,No,No,Yes,bad relationship,Yes,Yes,Yes,YesC33,resident,resident,35 to 50,35 and older,F,Maharepa,other not Caucausian,NA,Yes,No,No,No,Yes,bad relationship,Yes,Yes,Yes,YesC80,resident,resident,50 and older,35 and older,M,Urufara,Polynesian,neutral,No,No,No,No,No,bad relationship,Yes,Yes,Yes,YesS30,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,unsatisfied,No,No,No,No,Yes,bad relationship,Yes,Yes,Yes,YesS54,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,unsatisfied,No,No,No,No,No,bad relationship,Yes,Yes,Yes,YesC109,resident,resident,50 and older,35 and older,F,Afareaitu,Caucasian,neutral,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC23,resident,resident,25 to 35,under 35,F,Pihaena,Polynesian,satisfied,No,Yes,Yes,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC27,resident,resident,50 and older,35 and older,F,Pihaena,Multiracial,don't know enough,No,Yes,No,Yes,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC31,association,resident,under 25,under 35,F,Paopao,Caucasian,satisfied,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC32,resident,resident,25 to 35,under 35,F,Pihaena,Multiracial,unsatisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC38,resident,resident,under 25,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC39,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,unsatisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC41,resident,resident,50 and older,35 and older,M,Tiaia,Polynesian,satisfied,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC44,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,NA,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC49,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,neutral,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC53,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,No,Yes,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC55,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,don't know enough,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC56,resident,resident,50 and older,35 and older,F,Maharepa,Polynesian,unsatisfied,Yes,No,No,Yes,No,good relationship/or assumed good,Yes,Yes,Yes,YesC62,resident,resident,under 25,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC65,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC73,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC76,resident,resident,50 and older,35 and older,M,Maatea,Polynesian,NA,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC78,resident,resident,35 to 50,35 and older,F,Urufara,Polynesian,don't know enough,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC86,resident,resident,25 to 35,under 35,M,Maatea,Polynesian,neutral,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC87,resident,resident,under 25,under 35,M,Maatea,Multiracial,neutral,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC90,resident,resident,,,F,Pihaena,Polynesian,satisfied,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC92,resident,resident,35 to 50,35 and older,M,Papetoai,Polynesian,satisfied,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC93,resident,resident,25 to 35,under 35,M,Paopao,Polynesian,satisfied,Yes,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC96,resident,resident,35 to 50,35 and older,M,Temae,Polynesian,neutral,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC99,resident,resident,35 to 50,35 and older,F,Opunohu,Polynesian,satisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesS13,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,Yes,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesS22,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,Yes,Yes,Yes,Yes,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesS24,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,don't know enough,Yes,No,Yes,Yes,Yes,good relationship/or assumed good,Yes,Yes,No,YesS57,scientist,scientist,25 to 35,under 35,M,Criobe,Caucasian,unsatisfied,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC1,resident,resident,35 to 50,35 and older,F,Paopao,Multiracial,satisfied,No,No,No,No,Yes,mixed,Yes,Yes,Yes,YesC12,resident,resident,under 25,under 35,F,Pihaena,Polynesian,neutral,No,No,No,No,No,mixed,Yes,Yes,Yes,YesC19,resident,resident,50 and older,35 and older,F,Papetoai,Polynesian,unsatisfied,No,No,No,No,Yes,mixed,Yes,Yes,Yes,YesC24,resident,resident,50 and older,35 and older,M,Pihaena,Multiracial,satisfied,No,Yes,No,No,Yes,mixed,Yes,Yes,Yes,NoC3,resident,resident,,,M,Paopao,Multiracial,unsatisfied,No,Yes,No,No,No,mixed,Yes,Yes,Yes,YesC40,resident,resident,50 and older,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,No,Yes,mixed,Yes,Yes,Yes,YesC100,association,resident,35 to 50,35 and older,M,Opunohu,Polynesian,neutral,No,No,No,No,No,unclear,Yes,Yes,NA,NAC104,association,resident,50 and older,35 and older,M,Haapiti,Polynesian,satisfied,Yes,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC11,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,satisfied,No,Yes,No,No,No,unclear,Yes,Yes,Yes,YesC14,resident,resident,50 and older,35 and older,M,Pihaena,Polynesian,satisfied,No,Yes,No,No,Yes,unclear,Yes,Yes,Yes,YesC25,resident,resident,25 to 35,under 35,F,Pihaena,Polynesian,unsatisfied,No,No,No,No,Yes,bad relationship,Yes,Yes,Yes,YesC29,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,unclear,Yes,Yes,Yes,YesC45,resident,resident,50 and older,35 and older,F,Pihaena,Polynesian,neutral,No,Yes,No,No,No,unclear,Yes,Yes,Yes,YesC61,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,neutral,No,No,No,No,No,unclear,Yes,Yes,Yes,YesC68,resident,resident,50 and older,35 and older,M,Teavaro,Polynesian,satisfied,No,No,Yes,No,No,unclear,Yes,Yes,Yes,YesC69,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,unsatisfied,No,No,No,No,No,unclear,Yes,Yes,Yes,YesC70,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,Yes,No,unclear,Yes,Yes,Yes,YesC75,association,resident,50 and older,35 and older,M,Maatea,Polynesian,NA,Yes,No,No,No,Yes,unclear,Yes,Yes,Yes,YesC83,resident,resident,35 to 50,35 and older,M,Papetoai,Polynesian,NA,No,No,No,No,Yes,unclear,Yes,Yes,Yes,YesC85,resident,resident,35 to 50,35 and older,F,Maatea,Polynesian,satisfied,No,No,No,No,No,unclear,Yes,Yes,Yes,YesC9,association,resident,35 to 50,35 and older,F,Papetoai,Caucasian,satisfied,No,No,No,No,Yes,unclear,Yes,Yes,Yes,YesC98,resident,resident,35 to 50,35 and older,M,Paopao,Polynesian,satisfied,Yes,No,No,No,Yes,bad relationship,Yes,Yes,Yes,YesS05,scientist,scientist,under 25,under 35,F,Gump,Caucasian,NA,Yes,No,Yes,Yes,Yes,no interaction,Yes,Yes,Yes,YesS11,scientist,scientist,under 25,under 35,F,Gump,Caucasian,neutral,Yes,No,No,No,Yes,bad relationship,Yes,Yes,No,NoS20,scientist,scientist,25 to 35,under 35,F,Gump,other not Caucausian,NA,No,Yes,No,No,Yes,unclear,Yes,Yes,Yes,YesS21,scientist,scientist,25 to 35,under 35,M,Gump,NA,NA,No,Yes,Yes,Yes,Yes,unclear,Yes,Yes,Yes,YesS23,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,NA,Yes,Yes,No,Yes,No,unclear,Yes,Yes,Yes,YesS26,scientist,scientist,50 and older,35 and older,M,Gump,other not Caucausian,satisfied,No,No,No,Yes,Yes,unclear,Yes,Yes,Yes,YesS3,scientist,scientist,under 25,under 35,F,Gump,Caucasian,NA,No,No,No,No,No,unclear,Yes,Yes,Yes,YesS32,scientist,scientist,under 25,under 35,F,Gump,Caucasian,don't know enough,Yes,Yes,No,No,Yes,bad relationship,Yes,Yes,Yes,YesS39,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,don't know enough,Yes,No,No,Yes,Yes,mixed,Yes,Yes,Yes,YesS56,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,unsatisfied,No,No,No,No,No,unclear,Yes,Yes,Yes,YesS65,scientist,scientist,35 to 50,35 and older,M,Criobe,Caucasian,neutral,No,No,Yes,No,No,unclear,Yes,Yes,Yes,YesC105,resident,resident,25 to 35,under 35,F,Paopao,Polynesian,neutral,No,No,Yes,No,No,no interaction,Yes,Yes,Yes,YesC106,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,satisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,YesC117,resident,resident,,,M,Teavaro,Polynesian,satisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,YesC15,resident,resident,50 and older,35 and older,F,Pihaena,Polynesian,unsatisfied,No,No,No,No,No,no interaction,Yes,Yes,NA,NAC16,resident,resident,50 and older,35 and older,M,Pihaena,Polynesian,satisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,YesC17,resident,resident,35 to 50,35 and older,F,Pihaena,Polynesian,neutral,No,No,No,No,No,no interaction,Yes,Yes,Yes,YesC28,resident,resident,25 to 35,under 35,M,Maharepa,Polynesian,neutral,No,Yes,No,No,Yes,no interaction,Yes,Yes,Yes,YesC30,resident,resident,25 to 35,under 35,M,Maharepa,Multiracial,don't know enough,No,No,Yes,No,No,no interaction,Yes,Yes,Yes,YesC51,resident,resident,under 25,under 35,M,Maharepa,Polynesian,satisfied,No,No,No,No,No,no interaction,Yes,Yes,Yes,YesC52,resident,resident,50 and older,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,No,No,no interaction,Yes,Yes,Yes,YesC63,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,satisfied,No,No,No,No,No,no interaction,Yes,Yes,Yes,YesC67,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,satisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,YesC7,association,resident,50 and older,35 and older,F,Papetoai,Polynesian,unsatisfied,No,No,No,Yes,Yes,no interaction,Yes,Yes,No,YesC72,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,neutral,No,Yes,No,No,No,no interaction,Yes,Yes,Yes,YesC94,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,unsatisfied,No,Yes,No,Yes,No,no interaction,Yes,Yes,Yes,YesS04,scientist,scientist,under 25,under 35,M,Gump,Caucasian,NA,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,YesS1,scientist,scientist,under 25,under 35,M,Gump,other not Caucausian,NA,Yes,No,No,No,No,no interaction,Yes,Yes,Yes,YesS14,scientist,scientist,35 to 50,35 and older,M,Gump,Caucasian,don't know enough,No,No,No,Yes,Yes,no interaction,Yes,Yes,Yes,YesS2,scientist,scientist,under 25,under 35,F,Gump,Caucasian,NA,Yes,No,Yes,Yes,Yes,no interaction,Yes,Yes,Yes,YesS25,scientist,scientist,35 to 50,35 and older,M,Gump,Caucasian,NA,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,YesS31,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,neutral,No,Yes,No,No,Yes,no interaction,Yes,Yes,Yes,YesS35,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,unsatisfied,Yes,Yes,No,Yes,Yes,no interaction,Yes,Yes,Yes,YesS52,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,unsatisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,YesS59,scientist,scientist,25 to 35,under 35,M,Gump,other not Caucausian,don't know enough,No,No,No,No,No,no interaction,Yes,Yes,Yes,YesC21,resident,resident,under 25,under 35,F,Pihaena,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC22,resident,resident,under 25,under 35,M,Pihaena,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC42,resident,resident,under 25,under 35,F,Tiaia,Multiracial,satisfied,No,Yes,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC48,resident,resident,35 to 50,35 and older,F,Maharepa,Multiracial,satisfied,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC50,resident,resident,35 to 50,35 and older,F,Maharepa,Multiracial,neutral,Yes,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC54,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,unsatisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC57,resident,resident,50 and older,35 and older,F,Maharepa,Polynesian,satisfied,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC58,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,neutral,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC60,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC64,resident,resident,35 to 50,35 and older,M,Maharepa,Polynesian,neutral,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC71,resident,resident,35 to 50,35 and older,F,Maharepa,Polynesian,neutral,Yes,Yes,No,No,Yes,no interaction,Yes,Yes,Yes,YesC74,resident,resident,25 to 35,under 35,F,Maharepa,Polynesian,satisfied,No,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC88,resident,resident,35 to 50,35 and older,F,Maatea,Polynesian,neutral,No,No,No,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC91,resident,resident,50 and older,35 and older,M,Atiha,Polynesian,satisfied,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC95,resident,resident,35 to 50,35 and older,M,Paopao,Polynesian,satisfied,Yes,Yes,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,YesC118,resident,resident,35 to 50,35 and older,M,Vaiare,Caucasian,satisfied,No,No,Yes,No,Yes,good relationship/or assumed good,Yes,Yes,Yes,YesC114,resident,resident,25 to 35,under 35,M,Paopao,Polynesian,satisfied,No,No,No,No,No,bad relationship,Yes,No,Yes,YesS64,scientist,scientist,25 to 35,under 35,M,Gump,Caucasian,unsatisfied,No,No,No,No,Yes,bad relationship,Yes,No,Yes,YesS62,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,NA,No,No,No,No,No,good relationship/or assumed good,Yes,No,Yes,YesS60,scientist,scientist,50 and older,35 and older,M,Criobe,Caucasian,satisfied,No,No,No,No,Yes,unclear,Yes,No,Yes,YesS50,scientist,scientist,35 to 50,35 and older,M,Criobe,Caucasian,neutral,No,No,No,No,No,no interaction,Yes,No,Yes,YesS45,scientist,scientist,25 to 35,under 35,F,Gump,Caucasian,don't know enough,No,No,No,No,Yes,bad relationship,Yes,Yes,Yes,YesS48,scientist,scientist,25 to 35,under 35,F,Criobe,Caucasian,unsatisfied,No,No,No,No,No,bad relationship,Yes,Yes,Yes,YesS47,scientist,scientist,35 to 50,35 and older,M,Criobe,NA,satisfied,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,NoS53,scientist,scientist,50 and older,35 and older,M,Criobe,NA,neutral,No,No,No,No,No,good relationship/or assumed good,Yes,Yes,Yes,NoC115,resident,resident,35 to 50,35 and older,M,Maharepa,Multiracial,unsatisfied,No,No,Yes,No,Yes,mixed,Yes,Yes,Yes,YesC111,resident,resident,50 and older,35 and older,M,Paopao,Caucasian,neutral,No,No,No,No,No,unclear,Yes,Yes,Yes,YesS44,scientist,scientist,25 to 35,under 35,M,Gump,Multiracial,don't know enough,No,No,No,No,Yes,unclear,Yes,Yes,Yes,YesS55,scientist,scientist,50 and older,35 and older,M,Gump,Caucasian,NA,No,No,No,No,No,unclear,Yes,Yes,Yes,YesS46,scientist,scientist,25 to 35,under 35,F,Criobe,Caucasian,unsatisfied,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,NoS49,scientist,scientist,35 to 50,35 and older,M,Criobe,Caucasian,neutral,No,No,No,No,Yes,no interaction,Yes,Yes,Yes,Yes
