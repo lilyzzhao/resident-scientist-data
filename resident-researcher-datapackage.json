@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "resident_researcher_data",
-      "path": "https://raw.githubusercontent.com/lilyzzhao/science-to-benefit-moorea/master/resident_researcher_data.csv"
+      "path": "https://raw.githubusercontent.com/lilyzzhao/science-to-benefit-moorea/master/resident_researcher_data.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
